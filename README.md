@@ -3,13 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumeetmazumdar21&label=Profile%20views&color=0e75b6&style=flat" alt="sumeetmazumdar21" /> </p>
 
-- 🔭 I’m currently working on **a Frontend Project**
+- 🔭 **JavaScript Developer**
 
-- 🌱 I’m currently learning **NodeJs**
-
-- 👯 I’m looking to collaborate on **Frontend Projects**
-
-- 🤝 I’m looking for help with **React**
+- 👯 I’m looking to collaborate on **Web App Projects**
 
 - 💬 Ask me about **React, JavaScript**
 
